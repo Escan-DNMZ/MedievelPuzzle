@@ -1,6 +1,5 @@
 # MedievelDungeon
 I made on Unreal Engine 5 (C++)
-https://www.youtube.com/watch?v=Izr_NhfRQus&ab_channel=EscanDNMZ
 
 Game Link: (https://www.youtube.com/watch?v=whRIwUNdKbA&ab_channel=EscanDNMZ)
 
